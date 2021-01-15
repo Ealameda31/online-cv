@@ -9,7 +9,6 @@ sidebar:
     # Profile information
     name: Enrique M. Alameda-Basora
     tagline: Data Scientist
-    avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: emalameda96@gmail.com
@@ -20,13 +19,10 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
+        level: Native Proficiency 
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
       - item: Climbing
