@@ -13,7 +13,6 @@ sidebar:
     # Sidebar links
     email: emalameda96@gmail.com
     phone: +1 (787) 242-8817
-    website: blog.webjeda.com #do not add http://
     linkedin: Ealameda31
     github: Ealameda31
 
@@ -44,9 +43,10 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Industrial Engineering (OR & Analytics)
+      university: Iowa State University
+      time: 2018 - 2019
+      gpa: 3.79
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -55,9 +55,10 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Industrial Engineering
+      university: Iowa State University
+      time: 2014 - 2018
+      gpa: 3.69
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -174,6 +175,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
